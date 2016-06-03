@@ -13,7 +13,7 @@ requires = ['Sphinx>=1.0',]
 
 setup(
     name='sphinxcontrib-cmake',
-    version=domaintools.__version__,
+    version='0.1.0',
     url='https://github.com/ABI-Software/sphinxcontrib-cmake',
     download_url='https://github.com/ABI-Software/sphinxcontrib-cmake',
     license='BSD',
