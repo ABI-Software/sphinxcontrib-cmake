@@ -6,8 +6,6 @@ long_desc = '''
 This package contains a Sphinx extension for CMake.
 '''
 
-import domaintools
-
 requires = ['Sphinx>=1.0',]
 
 setup(
