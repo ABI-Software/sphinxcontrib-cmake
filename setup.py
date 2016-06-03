@@ -8,7 +8,6 @@ This package contains a Sphinx extension for CMake.
 
 import domaintools
 
-#requires = ['Sphinx>=1.0', 'sphinxcontrib-domaintools>=0.1']
 requires = ['Sphinx>=1.0',]
 
 setup(
